@@ -1,0 +1,5 @@
+# Le site est reconstruit par GitHub Actions : inutile de le versionner.
+site/
+__pycache__/
+.ipynb_checkpoints/
+.env
